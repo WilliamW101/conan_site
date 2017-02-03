@@ -3,11 +3,11 @@
 }
 
 .backg {
-  background: #3f2a14; /* For browsers that do not support gradients */
-  background: -webkit-radial-gradient(circle, #3f2a14, #a06b32, #020100); /* For Safari 5.1 to 6.0 */
-  background: -o-radial-gradient(circle, #3f2a14, #a06b32, #020100); /* For Opera 11.1 to 12.0 */
-  background: -moz-radial-gradient(circle, #3f2a14, #a06b32, #020100); /* For Firefox 3.6 to 15 */
-  background: radial-gradient(circle, #3f2a14, #a06b32, #020100); /* Standard syntax */
+  background: #000000; /* For browsers that do not support gradients */
+  background: -webkit-radial-gradient(circle, #000000, #2C3339, #000000); /* For Safari 5.1 to 6.0 */
+  background: -o-radial-gradient(circle, #000000, #2C3339, #000000); /* For Opera 11.1 to 12.0 */
+  background: -moz-radial-gradient(circle, #000000, #2C3339, #000000); /* For Firefox 3.6 to 15 */
+  background: radial-gradient(circle, #000000, #2C3339, #000000); /* Standard syntax */
   color: white;
   height: 100%;
 }
