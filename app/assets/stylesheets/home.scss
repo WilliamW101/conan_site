@@ -1,5 +1,9 @@
-.font {
+.upper_font {
   font-family: 'Bahiana', cursive;
+}
+
+.lower_font {
+  font-family: 'Pangolin', cursive;
 }
 
 .backg {
@@ -10,4 +14,13 @@
   background: radial-gradient(circle, #000000, #2C3339, #000000); /* Standard syntax */
   color: white;
   height: 100%;
+}
+
+#world {
+  background-image: url(https://res.cloudinary.com/dx4umukei/image/upload/v1486156678/world_mzqslw.jpg);
+  height: 300px;
+  width: 100%;
+  display: inline-block;
+  position: fixed;
+  background-repeat: no-repeat;
 }
