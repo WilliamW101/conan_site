@@ -1,10 +1,15 @@
 .upper_font {
-  font-size: 70px;
+  font-size: 75px;
   font-family: 'Bahiana', cursive;
 }
 
 .lower_font {
   font-family: 'Pangolin', cursive;
+}
+
+.highlight_font {
+  font-family: 'Bahiana', cursive;
+  font-size: 45px;
 }
 
 .right_side {
@@ -13,8 +18,10 @@
 
 .static-foot {
   margin-top: 100px;
+  padding-bottom: 0px;
   display: block;
   position: relative;
+  clear: both;
 }
 
 .backg {
