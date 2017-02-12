@@ -11,6 +11,12 @@
   margin-right: 30px;
 }
 
+.static-foot {
+  margin-top: 100px;
+  display: block;
+  position: relative;
+}
+
 .backg {
   background: #000000; /* For browsers that do not support gradients */
   background: -webkit-radial-gradient(circle, #000000, #2C3339, #000000); /* For Safari 5.1 to 6.0 */
